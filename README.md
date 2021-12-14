@@ -27,7 +27,7 @@ There are two special styles:  **Logo block** is shown in the frontend with bord
 
 ### Person link
 
-Creates a link to a post of the type 'Person' type.
+Creates a link to a post of the type 'Person' type. Shown with a pop-up preview box in the frontend.
 
 ### Add Image
 
