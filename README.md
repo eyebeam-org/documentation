@@ -4,10 +4,10 @@
 
 The Eyebeam website is using the sanity content management system. It is located at https://eyebeam-org.sanity.studio/
 
-Some general notes:
+General notes:
 
 - All images have a field to set an alt text. Remember to do this!
-– Images are automatically re-sized and converted to grayscale. Upload as high resolution versions as you have, in jpg or png format.
+- Images are automatically re-sized and converted to grayscale. Upload as high resolution versions as you have, in jpg or png format.
 
 ## The Content Editor
 
@@ -17,10 +17,9 @@ Most content editing and entry takes place in the content editor window. Most pa
 
 General notes:
 
-Pressing `ENTER` will create a new paragraph resulting in a bigger vertical space. To make a single line break without creating a new paragraph press `OPTION + ENTER`.
+- Pressing `ENTER` will create a new paragraph resulting in a bigger vertical space. To make a single line break without creating a new paragraph press `OPTION + ENTER`.
 
-
-### Text styles dropdown menu
+### Text styles dropdown
 
 Select a paragraph of text and change the style here. Note that text marked as **H2** will create a internal link shown in the sidebar of the page.
 
@@ -37,8 +36,6 @@ Settings allow you to align the image left or right as well as have to take up t
 ### Add Video
 
 Embeds a post of the 'Video' type.
-
-<hr/>
 
 ## Notes about specific pages
 
