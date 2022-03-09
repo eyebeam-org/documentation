@@ -2,6 +2,8 @@
 
 ## Overview
 
+<img width="1520" alt="eyebeam-org-overview" src="https://user-images.githubusercontent.com/8209990/157432966-625f330f-f04b-4ea4-a9a6-b0f64e8a19fa.png">
+
 The Eyebeam website is using the sanity content management system. It is located at https://eyebeam-org.sanity.studio/
 
 General notes:
